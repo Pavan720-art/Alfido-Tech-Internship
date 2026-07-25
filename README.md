@@ -1,1 +1,1 @@
-# Alfido-Tech-Embedded systems-Internship
+# Alfido-Tech-Internship
